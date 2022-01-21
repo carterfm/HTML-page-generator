@@ -1,0 +1,22 @@
+{
+  "name": "html-page-generator",
+  "version": "1.0.0",
+  "description": "An introductory Node.JS project wherein I wrote a js file that generates an html page based on user input in the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carterfm/HTML-page-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carterfm/HTML-page-generator/issues"
+  },
+  "homepage": "https://github.com/carterfm/HTML-page-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
